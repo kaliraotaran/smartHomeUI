@@ -1,16 +1,15 @@
 # smarthomeui
 
-A new Flutter project.
 
-## Getting Started
+<img width="501" alt="image" src="https://github.com/kaliraotaran/smartHomeUI/assets/81376236/e2b277c2-c65f-4d1c-99fb-980d2dc7deac">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="501" alt="image" src="https://github.com/kaliraotaran/smartHomeUI/assets/81376236/06c6c431-38d4-4de4-be76-0aeb5baeaa24">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://github.com/kaliraotaran/smartHomeUI/assets/81376236/007e8f48-03de-49eb-8e62-bd8c44366b46
+
+
